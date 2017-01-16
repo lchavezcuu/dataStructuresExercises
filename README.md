@@ -1,1 +1,1 @@
-# dataStructuresExercises
+# Some data structures exercises
